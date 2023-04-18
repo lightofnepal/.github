@@ -1,5 +1,3 @@
-# iHalloween
-
 ## Overview
 
 iHalloween offers a wide range of open-source resources and paid services at affordable prices. Our team specializes in creating websites with both front-end and back-end development, including WordPress sites setup, custom theme development, and plugin development. We also excel in building Minecraft servers and clients using MCP (Minecraft Coder Pack), developing plugins, constructing custom buildings, and providing Pterodactyl installation and hosting services. We prioritize clean code and modern UI/UX design in all of our projects.
